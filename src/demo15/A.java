@@ -21,7 +21,7 @@ public class A {
 	}
 	
 	display.dispose();
-	System.out.println("\n=====================================");
+
 
 	
 }//main
