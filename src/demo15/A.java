@@ -21,8 +21,6 @@ public class A {
 	}
 	
 	display.dispose();
-
-
-	
 }//main
 }
+ggg;
